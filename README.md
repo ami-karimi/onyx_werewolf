@@ -9,4 +9,7 @@
 
 ## Table of Contents
 - [مقدمه](#introduction)
-- [مقدمه](#introduction)
+- [توضیحات](#introduction)
+- [آموزش راه اندازی](#introduction)
+   - [پیش نیاز ها](#introduction)
+   - [سرور مورد نیاز](#introduction)
