@@ -6,10 +6,3 @@
 	<br>
 </h1>
 
-
-## Table of Contents
-- [مقدمه](#introduction)
-- [توضیحات](#introduction)
-- [آموزش راه اندازی](#introduction)
-   - [پیش نیاز ها](#introduction)
-   - [سرور مورد نیاز](#introduction)
