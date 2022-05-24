@@ -1,0 +1,11 @@
+{
+    "require": {
+        "cronapp/cron-bot": "dev-master",
+        "mongodb/mongodb": "^1.4",
+        "longman/telegram-bot": "^0.59.1",
+        "phpcron/telegram-bot": "dev-master",
+        "predis/predis": "^1.1",
+        "ircmaxell/random-lib": "^1.2",
+        "alcaeus/mongo-php-adapter": "^1.2"
+    }
+}
