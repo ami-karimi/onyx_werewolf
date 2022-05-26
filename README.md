@@ -18,9 +18,13 @@
 ## Introduction
 
 نسخه PHP حداقل 7.4
+<br>
 سرور مورد نیاز و پیشنهادی : linux , Centos
+<br>
 دیتابیس: Mongodb,Redis
+<br>
 زبان های برنامه نویسی: PHP, Nodejs
+<br>
 همچنین سرور بایستی بسته Nodejs نصب شده باشد جهت راه اندازی APIو NodeServer
 
 
