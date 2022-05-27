@@ -10,7 +10,7 @@
 
 ## گروه اصلی در تلگرام
 
-https://t.me/+79n44yZVtx8zZjk0
+https://t.me/onyxGroups
 
 ## کانال رسمی تلگرام
 https://t.me/OnyxWereWolf
